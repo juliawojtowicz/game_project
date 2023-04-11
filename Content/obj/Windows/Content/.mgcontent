@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/buyButton.png</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/diceButton.png</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/Font.spritefont</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/monopolyBoard.png</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/newGameButton.png</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/nextTurnButton.png</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/player1.jpg</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/player2.jpg</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/QuitButton.png</File>
+    <File>C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/StartButton.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

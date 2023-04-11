@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/buyButton.png","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/buyButton.xnb","TextureProcessor","Texture2DContent",880,6885,0,2436614
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/diceButton.png","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/diceButton.xnb","TextureProcessor","Texture2DContent",1970,9885,0,0039911
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/monopolyBoard.png","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/monopolyBoard.xnb","TextureProcessor","Texture2DContent",47275,1440085,0,1077114
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/newGameButton.png","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/newGameButton.xnb","TextureProcessor","Texture2DContent",2319,25685,0,0089764
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/nextTurnButton.png","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/nextTurnButton.xnb","TextureProcessor","Texture2DContent",2153,9885,0,0029922
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/player1.jpg","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/player1.xnb","TextureProcessor","Texture2DContent",17461,454445,0,0897574
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/player2.jpg","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/player2.xnb","TextureProcessor","Texture2DContent",2460,14645,0,0259283
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/QuitButton.png","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/QuitButton.xnb","TextureProcessor","Texture2DContent",2795,25685,0,0408905
+"C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/StartButton.png","C:/Users/HP/source/repos/C1gameProject/C1gameProject/Content/bin/Windows/StartButton.xnb","TextureProcessor","Texture2DContent",1780,25685,0,0069785
